@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="title">select your fruits you love!!</string>
+    <string name="apple">apple</string>
+    <string name="mango">mango</string>
+    <string name="grapes">grapes</string>
+    <string name="selectedApple">you love apple</string>
+    <string name="selectedMango">you love mango</string>
+    <string name="selectedGrapes">you love grapes</string>
+    <string name="selectedAll">you like all the fruits!!</string>
+    <string name="selectedAppleAndMango">you like apple and mango</string>
+    <string name="selectedAppleAndGrapes">you like apple and grapes</string>
+    <string name="selectedMangoAndGrapes">you like mango and grapes</string>
+    <string name="selectedNothing">you have not selected anything. Please select!! </string>
+    <string name="submit">submit</string>
+</resources>
